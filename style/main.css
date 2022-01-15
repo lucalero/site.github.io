@@ -48,9 +48,8 @@ color: #fff;
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("https://www.themoviedb.org/t/p/w500_and_h282_face/uDsfvUyhtaQZcAkwDPrRgN3SxnX.jpg") no-repeat;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa-house.jpg') no-repeat;
 
-    
     height: 400px;
     background-size: cover;
 
